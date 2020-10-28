@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test task</string>
+    <string name="start_feeding">Начать кормление</string>
+    <string name="basic_weighing">Общее взвештвание</string>
+    <string name="refusal">Остатки</string>
+    <string name="setting">Настройки</string>
+    <string name="feeding_data">Данные о кормлении</string>
+    <string name="edit_programs">Редакт. программы</string>
+    <string name="_0">0</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="recipes">Рецепты</string>
+    <string name="animals">Животные</string>
+    <string name="pens">Загоны</string>
+    <string name="mixs">Замесы</string>
+    <string name="chef">CHEF</string>
+    <string name="farm">FARM</string>
+    <string name="v_4_0_19">v 4.0.19</string>
+</resources>
